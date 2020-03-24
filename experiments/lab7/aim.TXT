@@ -1,0 +1,1 @@
+AIM:- Write a program for Left Recursion problem Removal (Removal of both direct and indirect recursion)

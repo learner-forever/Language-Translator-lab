@@ -1,0 +1,3 @@
+AIM:- Implementation of scanner phase (w/o using any automated tools).
+Using C language.
+ 

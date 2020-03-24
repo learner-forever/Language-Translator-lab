@@ -1,0 +1,1 @@
+AIM- Generate a program to remove Left Factoring problem from given grammar rules.

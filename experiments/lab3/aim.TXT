@@ -1,0 +1,11 @@
+AIM:- Using FLEX tool, generate scanner for a language.
+PROCEDURE: Generate scanner using FLEX, which can identify following language –“D”, and display appropriate messages on recognizing them.
+Rules of language “D”
+(a) Keywords—if,for,while,do,exit,else,case,switch,until
+(b)Identifiers—starting with alphabet(big or small) and followed by one or more alphabets or numbers
+(c) Numbers(1) float  number having one ‘.’ and valid formats are  .Num or   Num.Num or Num.0 (2) integer number—>simple number, starting with  digit followed by zero or more digits
+(d) Single line comments  starting with ***
+(e) White space characthers are - blanks and tabs 
+(f) punctuations are –[ ,],{,},(,) and comma
+(g) operators :=,<>,= = ,!= , <=, <=,(relational),+,-,*,% (mathametical)
+(h) string constant in ‘ ’   Note-no enclosing quotes allowed in langauge
