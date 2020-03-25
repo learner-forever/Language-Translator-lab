@@ -1,0 +1,6 @@
+ab = 680.986
+if (76>=86)
+then 	{hello}
+*** ignore
+	else
+		{ 'bye' }
